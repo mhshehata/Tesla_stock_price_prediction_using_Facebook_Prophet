@@ -8,4 +8,4 @@
 - Automate the stock forecasting process to get the forecast of any stock within seconds.
 
 
-<img src='/evaluation.png'>
+<img src="evaluation.png">
