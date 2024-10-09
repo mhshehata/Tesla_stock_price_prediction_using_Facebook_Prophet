@@ -13,3 +13,6 @@
 
 ### Forecasting Model Evaluation
 <img src="Evaluation.png">
+
+### Predicted 30-Day Close Price
+<img src="Predicted 30-Days Close Price.png">
