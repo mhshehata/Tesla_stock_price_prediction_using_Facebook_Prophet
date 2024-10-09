@@ -6,3 +6,6 @@
 - Visualize data using Plotly express & Evaluate Forecast using Google Finance in Google Sheets.
 
 - Automate the stock forecasting process to get the forecast of any stock within seconds.
+
+
+<img src='evaluation.png'>
