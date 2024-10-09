@@ -7,5 +7,6 @@
 
 - Automate the stock forecasting process to get the forecast of any stock within seconds.
 
-
+<img src="tesla_stock_price.png">
+<img src="tesla_stock_volume.png">
 <img src="Evaluation.png">
