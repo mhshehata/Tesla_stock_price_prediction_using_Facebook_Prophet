@@ -20,11 +20,14 @@
 ### Predicted 30-Day Close Price
 <img src="Predicted 30-Days Close Price.png">
 
-1. Overall Trend:
+- Overall Trend:
+
 Slight Upward Trend: The predicted price appears to be trending slightly upward over the time period. This suggests a positive outlook for the stock's performance.
 
-2. Price Stability:
+- Price Stability:
+
 Minimal Fluctuations: The predicted price exhibits relatively minimal fluctuations, indicating a relatively stable outlook. However, it's important to note that this could be due to the model's assumptions or limitations.
 
-3. Starting and Ending Prices:
+- Starting and Ending Prices:
+
 Price Increase: The price started at 244.54 and ended at 257.28, representing a 5.2% increase over the time period.
