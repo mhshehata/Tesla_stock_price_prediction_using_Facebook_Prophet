@@ -7,6 +7,9 @@
 
 - Automate the stock forecasting process to get the forecast of any stock within seconds.
 
+### Stock Distribution (Oct 2023 - Oct 2024)
 <img src="tesla_stock_price.png">
 <img src="tesla_stock_volume.png">
+
+### Forecasting Model Evaluation
 <img src="Evaluation.png">
